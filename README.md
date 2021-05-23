@@ -1,8 +1,8 @@
 # ChatCord
 
-Chat Cord multi user chatting application build on Node js and Express
-js framework which helps users to communicate simultaneously in chat
-rooms using the functionality of socket.io.
+Chat Cord multi user chatting application build on Node js, Express
+js and socket.io which helps multiple users to communicate simultaneously in chat
+rooms seamlessely
 
 1. Chatcord web application to enter username and chatroom
 
